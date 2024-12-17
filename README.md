@@ -3,7 +3,7 @@
 I'm a **Software Engineer** specialized in back-end development using .NET Framework!
 ---
 
-[📄 Here's my resume](https://github.com/yourusername/yourrepository/blob/main/AhmedHegazy-Resume.pdf)
+[📄 Here's my resume](https://github.com/ahmedhegazyxo/ahmedhegazyxo/blob/main/AhmedHegazy -Resume.pdf)
 
 ---
 
