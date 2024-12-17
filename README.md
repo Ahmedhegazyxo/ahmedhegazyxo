@@ -12,11 +12,6 @@ Passionate about creating scalable, high-performance applications and continuous
 
 ---
 
-## 📊 GitHub Stats  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhegazyxo&show_icons=true&theme=radical)  
-[![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=ahmedhegazyxo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📫 Let's Connect  
 [![Email](https://img.shields.io/badge/-AhmedHegazy.swe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AhmedHegazy.swe@gmail.com)  
