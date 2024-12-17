@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Hegazy!  
 
-<!--
-**Ahmedhegazyxo/ahmedhegazyxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** specialized in back-end development using .NET Framework!
+---
 
-Here are some ideas to get you started:
+[📄 Here's my resume](https://github.com/yourusername/yourrepository/blob/main/AhmedHegazy-Resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect  
+- 📧 [AhmedHegazy.swe@gmail.com](mailto:AhmedHegazy.swe@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hegazy-55a391185/)  
+- 📱 [WhatsApp](http://wa.me/+201200011630)  
